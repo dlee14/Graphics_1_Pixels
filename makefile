@@ -4,4 +4,3 @@ clean:
 	rm *.o
 run: all
 	./a.out
-	convert pic.ppm pic.png
